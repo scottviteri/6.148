@@ -1,0 +1,12 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #D1BFAA;
+  margin: 0;
+  padding: 0;
+}
+
+/* Your CSS here! */
